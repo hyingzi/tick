@@ -1,6 +1,6 @@
 {
   "name": "tickfn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "tick",
   "main": "index.js",
   "scripts": {
