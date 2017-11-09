@@ -1,0 +1,23 @@
+{
+  "name": "tick",
+  "version": "0.0.1",
+  "description": "tick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyingzi/tick.git"
+  },
+  "keywords": [
+    "tick",
+    "requestAnimationFrame"
+  ],
+  "author": "h.yingzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyingzi/tick/issues"
+  },
+  "homepage": "https://github.com/hyingzi/tick#readme"
+}
